@@ -2,9 +2,6 @@
 
 A production-ready URL shortener service built with Node.js, demonstrating key Low-Level Design patterns and SOLID principles.
 
-## Support my work ☕
-Buy me a coffee 👉 https://bit.ly/buydeveloperdiary
-
 ## 🎯 Project Overview
 
 This project showcases a complete URL shortener implementation following industry-standard design patterns including Strategy Pattern, Repository Pattern, Dependency Injection, and Layered Architecture.
@@ -455,14 +452,5 @@ Add corresponding service and controller methods.
 
 MIT License - Feel free to use this for learning and interviews!
 
----
 
-## 👨‍💻 Contributing
 
-This project is for educational purposes.
-Contributions are welcome! Please follow the existing code structure and design patterns.
-
----
-
-## Support my work ☕
-Buy me a coffee 👉 https://bit.ly/buydeveloperdiary

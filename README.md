@@ -1,4 +1,4 @@
-# URL Shortener - Low-Level Design (LLD) Implementation
+# URL Shortener
 
 A production-ready URL shortener service built with Node.js, demonstrating key Low-Level Design patterns and SOLID principles.
 
